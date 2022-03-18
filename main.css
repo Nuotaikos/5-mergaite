@@ -1,9 +1,25 @@
+body {
+
+}
+
 header,
 main {
     background-color: aqua; 
     width: 800px; 
     margin-left: calc(50% - 400px); 
 }
+
+img {
+
+}
+ nav {
+
+ }
+
+ a {
+
+ }
+ 
 main {
     margin-top: 100px
 }
