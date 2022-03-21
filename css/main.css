@@ -7,9 +7,7 @@ body * {
 }
 
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-body {
+    color: darkgray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -58,20 +56,22 @@ body > main {
 main > div {
     width: 45%;
     float: left;
-    padding-right: 5%;
+    padding-right: 13%;
 }
 
 div > h1 {
-
+font-size: 80px;
 }
 
 div > p {
-
+font-size: 30px;
 }
 
 main > img {
-    width: 50%;
-    float: left;
+    width: 55%;
     height: 300px;
+    float: left;
+    object-fit: contain;
+    
 }
 
